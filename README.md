@@ -20,6 +20,8 @@ The following models are implemented:
 - **Model 4:** Faster-RCNN + SwinTransformer (small) [[download](https://drive.google.com/drive/folders/1BD1RhV-9AllfNw75LvHne6cc1n_di0wr?usp=sharing)]
 - **Model 5:** Faster-RCNN + SwinTransformer (small) [[download](https://drive.google.com/drive/folders/1BD1RhV-9AllfNw75LvHne6cc1n_di0wr?usp=sharing)]
 
+Contact Me: common.jaemin@gmail.com
+
 ### Inference
 For running inference in Phase 1, utilize the provided Jupyter notebook:
 - **File:** `inference.ipynb`
